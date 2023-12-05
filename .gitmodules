@@ -1,0 +1,6 @@
+[submodule "genai1"]
+	path = genai1
+	url = https://github.com/badaltechiepi/genai1.git
+[submodule "genai3"]
+	path = genai3
+	url = https://github.com/badaltechiepi/genai3.git
